@@ -1,0 +1,3 @@
+Animal{faj=Oroszlán, kor=3, lelohely=Afrika, etrend=húsevő, kifutoszam=4}
+Animal{faj=Puma, kor=6, lelohely=Észak-Amerika, etrend=húsevő, kifutoszam=1}
+Animal{faj=KaliforniaiOroszlánFóka, kor=3, lelohely=Kaliforniai félsziget, etrend=húsevő, kifutoszam=21}

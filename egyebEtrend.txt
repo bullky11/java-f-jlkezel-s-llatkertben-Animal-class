@@ -1,0 +1,3 @@
+Animal{faj=GímSzarvas, kor=5, lelohely=Európa, etrend=növényevő, kifutoszam=9}
+Animal{faj=BarnaMedve, kor=7, lelohely=Európa, etrend=mindenevő, kifutoszam=13}
+Animal{faj=ÓriásTukán, kor=3, lelohely=Dél-Amerika, etrend=mindenevő, kifutoszam=17}

@@ -1,0 +1,7 @@
+faj;kor;őshonoslelőhely;étrend;kifutó-szám
+GímSzarvas;5;Európa;növényevő;9
+BarnaMedve;7;Európa;mindenevő;13
+Oroszlán;3;Afrika;húsevő;4
+ÓriásTukán;3;Dél-Amerika;mindenevő;17
+Puma;6;Észak-Amerika;húsevő;1
+KaliforniaiOroszlánFóka;3;Kaliforniai félsziget;húsevő;21
